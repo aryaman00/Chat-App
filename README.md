@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple web based chat app made using react js,bootstrap and google firebase.
+Check it out on:[Chat-App](https://chat-app-dd843.web.app/)
 
 ## Available Scripts
 
